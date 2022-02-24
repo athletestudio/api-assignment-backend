@@ -26,7 +26,7 @@ The new object should contain the following data:
 }
 ```
 
-Setup MongoDB (or another NoSQL database) to store each newly formatted object.
+Setup MongoDB (or another NoSQL database) to store each newly formatted `athlete` object.
 
 `ageLabel` is a new data field which should be dynamically set as `Senior` or `Junior` for each athlete. Set the value to `Senior` if the athlete's age is equal to or greater than the average athlete age across the entire league. Set the value to `Junior` if the athlete's age is below the average athlete age across the entire league.
 
