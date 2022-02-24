@@ -1,4 +1,4 @@
-# Backend Engineering Assignment
+# API Engineering Assignment
 ### Overview
 The goal of this assignment is to aggregate data from multiple API endpoints to create a revised `athlete` object which we will store in a NoSQL database.
 
