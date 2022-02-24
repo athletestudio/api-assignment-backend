@@ -2,7 +2,7 @@
 ### Overview
 The goal of this assignment is to aggregate data from multiple API endpoints to create a revised `athlete` object which we will store in a NoSQL database.
 
-Create a new project locally and write a JavaScript or Python function to extract data from each athlete's individual API endpoint listed here:
+Create a new project locally and write a JavaScript (Node.js) or Python function to extract data from each athlete's individual API endpoint listed here:
 
 `https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes`
 
